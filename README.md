@@ -4,7 +4,7 @@
 
 **A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone**
 ---
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
   <strong>[中文](./README_zh.md) |
   English</strong>
 
